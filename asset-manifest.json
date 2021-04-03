@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/annis-project/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/annis-project/static/js/main.9a9ce2fd.chunk.js",
-    "main.js.map": "/annis-project/static/js/main.9a9ce2fd.chunk.js.map",
+    "main.js": "/annis-project/static/js/main.fb8307ed.chunk.js",
+    "main.js.map": "/annis-project/static/js/main.fb8307ed.chunk.js.map",
     "runtime-main.js": "/annis-project/static/js/runtime-main.e3e7600c.js",
     "runtime-main.js.map": "/annis-project/static/js/runtime-main.e3e7600c.js.map",
     "static/js/2.19301bfc.chunk.js": "/annis-project/static/js/2.19301bfc.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e3e7600c.js",
     "static/js/2.19301bfc.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.9a9ce2fd.chunk.js"
+    "static/js/main.fb8307ed.chunk.js"
   ]
 }
