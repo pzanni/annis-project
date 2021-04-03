@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/pzanni/annis-project.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/pzanni/annis-project.git/static/js/main.092ecbb9.chunk.js",
-    "main.js.map": "/pzanni/annis-project.git/static/js/main.092ecbb9.chunk.js.map",
-    "runtime-main.js": "/pzanni/annis-project.git/static/js/runtime-main.e008768e.js",
-    "runtime-main.js.map": "/pzanni/annis-project.git/static/js/runtime-main.e008768e.js.map",
-    "static/js/2.06e77b7a.chunk.js": "/pzanni/annis-project.git/static/js/2.06e77b7a.chunk.js",
-    "static/js/2.06e77b7a.chunk.js.map": "/pzanni/annis-project.git/static/js/2.06e77b7a.chunk.js.map",
-    "static/js/3.b325cc63.chunk.js": "/pzanni/annis-project.git/static/js/3.b325cc63.chunk.js",
-    "static/js/3.b325cc63.chunk.js.map": "/pzanni/annis-project.git/static/js/3.b325cc63.chunk.js.map",
-    "index.html": "/pzanni/annis-project.git/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/pzanni/annis-project.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.06e77b7a.chunk.js.LICENSE.txt": "/pzanni/annis-project.git/static/js/2.06e77b7a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pzanni/annis-project.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/annis-project/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/annis-project/static/js/main.092ecbb9.chunk.js",
+    "main.js.map": "/annis-project/static/js/main.092ecbb9.chunk.js.map",
+    "runtime-main.js": "/annis-project/static/js/runtime-main.cd34a5d5.js",
+    "runtime-main.js.map": "/annis-project/static/js/runtime-main.cd34a5d5.js.map",
+    "static/js/2.06e77b7a.chunk.js": "/annis-project/static/js/2.06e77b7a.chunk.js",
+    "static/js/2.06e77b7a.chunk.js.map": "/annis-project/static/js/2.06e77b7a.chunk.js.map",
+    "static/js/3.b325cc63.chunk.js": "/annis-project/static/js/3.b325cc63.chunk.js",
+    "static/js/3.b325cc63.chunk.js.map": "/annis-project/static/js/3.b325cc63.chunk.js.map",
+    "index.html": "/annis-project/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/annis-project/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.06e77b7a.chunk.js.LICENSE.txt": "/annis-project/static/js/2.06e77b7a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/annis-project/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e008768e.js",
+    "static/js/runtime-main.cd34a5d5.js",
     "static/js/2.06e77b7a.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.092ecbb9.chunk.js"
