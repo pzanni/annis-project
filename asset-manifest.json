@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/annis-project/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/annis-project/static/js/main.fe67e8d6.chunk.js",
-    "main.js.map": "/annis-project/static/js/main.fe67e8d6.chunk.js.map",
+    "main.css": "/annis-project/static/css/main.d013b547.chunk.css",
+    "main.js": "/annis-project/static/js/main.0631154e.chunk.js",
+    "main.js.map": "/annis-project/static/js/main.0631154e.chunk.js.map",
     "runtime-main.js": "/annis-project/static/js/runtime-main.e3e7600c.js",
     "runtime-main.js.map": "/annis-project/static/js/runtime-main.e3e7600c.js.map",
-    "static/js/2.2716ec82.chunk.js": "/annis-project/static/js/2.2716ec82.chunk.js",
-    "static/js/2.2716ec82.chunk.js.map": "/annis-project/static/js/2.2716ec82.chunk.js.map",
+    "static/js/2.648a3ec8.chunk.js": "/annis-project/static/js/2.648a3ec8.chunk.js",
+    "static/js/2.648a3ec8.chunk.js.map": "/annis-project/static/js/2.648a3ec8.chunk.js.map",
     "static/js/3.b6c56742.chunk.js": "/annis-project/static/js/3.b6c56742.chunk.js",
     "static/js/3.b6c56742.chunk.js.map": "/annis-project/static/js/3.b6c56742.chunk.js.map",
     "index.html": "/annis-project/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/annis-project/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.2716ec82.chunk.js.LICENSE.txt": "/annis-project/static/js/2.2716ec82.chunk.js.LICENSE.txt",
+    "static/css/main.d013b547.chunk.css.map": "/annis-project/static/css/main.d013b547.chunk.css.map",
+    "static/js/2.648a3ec8.chunk.js.LICENSE.txt": "/annis-project/static/js/2.648a3ec8.chunk.js.LICENSE.txt",
     "static/media/Food_Production.c7230460.csv": "/annis-project/static/media/Food_Production.c7230460.csv",
+    "static/media/App.css": "/annis-project/static/media/sheep.1f98ab15.svg",
     "static/media/animals-slaughtered-for-meat.4f33439c.csv": "/annis-project/static/media/animals-slaughtered-for-meat.4f33439c.csv",
     "static/media/meat_consumption_worldwide.d8cf015a.csv": "/annis-project/static/media/meat_consumption_worldwide.d8cf015a.csv"
   },
   "entrypoints": [
     "static/js/runtime-main.e3e7600c.js",
-    "static/js/2.2716ec82.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.fe67e8d6.chunk.js"
+    "static/js/2.648a3ec8.chunk.js",
+    "static/css/main.d013b547.chunk.css",
+    "static/js/main.0631154e.chunk.js"
   ]
 }
