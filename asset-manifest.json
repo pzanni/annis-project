@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/annis-project/static/css/main.d013b547.chunk.css",
-    "main.js": "/annis-project/static/js/main.0631154e.chunk.js",
-    "main.js.map": "/annis-project/static/js/main.0631154e.chunk.js.map",
+    "main.css": "/annis-project/static/css/main.591987ca.chunk.css",
+    "main.js": "/annis-project/static/js/main.1fc6d172.chunk.js",
+    "main.js.map": "/annis-project/static/js/main.1fc6d172.chunk.js.map",
     "runtime-main.js": "/annis-project/static/js/runtime-main.e3e7600c.js",
     "runtime-main.js.map": "/annis-project/static/js/runtime-main.e3e7600c.js.map",
     "static/js/2.648a3ec8.chunk.js": "/annis-project/static/js/2.648a3ec8.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.b6c56742.chunk.js": "/annis-project/static/js/3.b6c56742.chunk.js",
     "static/js/3.b6c56742.chunk.js.map": "/annis-project/static/js/3.b6c56742.chunk.js.map",
     "index.html": "/annis-project/index.html",
-    "static/css/main.d013b547.chunk.css.map": "/annis-project/static/css/main.d013b547.chunk.css.map",
+    "static/css/main.591987ca.chunk.css.map": "/annis-project/static/css/main.591987ca.chunk.css.map",
     "static/js/2.648a3ec8.chunk.js.LICENSE.txt": "/annis-project/static/js/2.648a3ec8.chunk.js.LICENSE.txt",
     "static/media/Food_Production.c7230460.csv": "/annis-project/static/media/Food_Production.c7230460.csv",
     "static/media/App.css": "/annis-project/static/media/sheep.1f98ab15.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.e3e7600c.js",
     "static/js/2.648a3ec8.chunk.js",
-    "static/css/main.d013b547.chunk.css",
-    "static/js/main.0631154e.chunk.js"
+    "static/css/main.591987ca.chunk.css",
+    "static/js/main.1fc6d172.chunk.js"
   ]
 }
